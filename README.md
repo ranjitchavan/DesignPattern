@@ -1,2 +1,2 @@
 # DesignPattern
-Java Design Pattern
+Java Design Pattern_1.2
